@@ -18,3 +18,7 @@ game_data.xlsx
 * 版本：Python 3以上
 * 使用套件：Pandas、NumPy、Matplotlib、Seaborn
 ## 問題探討以及說明
+### 問題一：哪些玩家算是幸運的玩家?
+* 程式碼：part1_lucky_players.py
+* 問題：如何定義「幸運」?
+* 探討：以下列兩個指標作為「幸運」的判斷標準
