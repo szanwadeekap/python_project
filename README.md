@@ -52,6 +52,8 @@ game_data.xlsx
 * 時間序列分析，可以揭示數據中的趨勢以及周期性模式，並提供對未來數據的預測。搭配圖表的使用，可以更容易看出整體資料特性以及趨勢。
 
 * 圖3-1【每月登入次數】：呈現出當月有多少玩家登入，可以得知2023年的玩家比2022年更多、更活躍，且發現在暑假及寒假期間，登入次數似乎較平常高。
+  
   ![image](https://github.com/szanwadeekap/python_project/blob/main/3-1.png)
 * 圖3-2【每月轉蛋次數】：呈現出每個月平均每個玩家的轉蛋次數，可以得知整體玩家轉蛋次數逐漸下降，也可發現在暑假及寒假期間，轉蛋次數似乎較平常高。
+  
   ![image](https://github.com/szanwadeekap/python_project/blob/main/3-2.png)
